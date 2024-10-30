@@ -10,7 +10,7 @@ class my_database:
         self.db_config = {
             "host": "localhost",
             "user": "root",
-            "password": "Jayaravy1!",
+            "password": ,
             "database": "r6s",
         }
             
